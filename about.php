@@ -101,21 +101,21 @@
       <div class="team-grid">
         <div class="team-card">
           <div class="team-avatar">👨‍💼</div>
-          <div class="team-name">James van der Berg</div>
+          <div class="team-name">Michael Potgieter</div>
           <div class="team-role">Founder &amp; CEO</div>
-          <p class="team-bio">Born and raised in Paarl. Started LocalMarket to help his neighbours sell unwanted goods without driving to a flea market.</p>
+          <p class="team-bio">Born and raised in Malmesbury. Started LocalMarket to help his neighbours sell unwanted goods without driving to a flea market.</p>
         </div>
         <div class="team-card">
           <div class="team-avatar">👩‍💻</div>
-          <div class="team-name">Lerato Mokoena</div>
+          <div class="team-name">Michael Potgieter</div>
           <div class="team-role">Lead Developer</div>
           <p class="team-bio">Full-stack developer with a passion for building tools that make everyday life easier for real people.</p>
         </div>
         <div class="team-card">
           <div class="team-avatar">👩‍🎨</div>
-          <div class="team-name">Anri Joubert</div>
+          <div class="team-name">Michael Potgieter</div>
           <div class="team-role">Design &amp; UX</div>
-          <p class="team-bio">Keeps the platform looking clean and feeling intuitive. Believes good design should be invisible.</p>
+          <p class="team-bio">Yes, its me again. Keeps the platform looking clean and feeling intuitive. Believes good design should be invisible.</p>
         </div>
       </div>
 
