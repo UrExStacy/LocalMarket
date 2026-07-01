@@ -1,0 +1,10 @@
+# File: images/products/.htaccess
+# Prevents PHP files from executing inside the uploads folder
+# This stops malicious files disguised as images from running as PHP
+
+<FilesMatch "\.php$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+Options -Indexes

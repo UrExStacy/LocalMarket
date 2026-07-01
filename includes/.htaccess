@@ -1,0 +1,4 @@
+# File: includes/.htaccess
+# Blocks direct browser access to all files in the includes/ folder
+Order allow,deny
+Deny from all
